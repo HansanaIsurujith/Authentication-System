@@ -29,7 +29,7 @@ Ensure you have the following installed on your local machine:
 1. **Clone the repository** (or download the source code):
    ```bash
    git clone <repository-url>
-   cd "MTIT Project/IT22294470"
+   cd "MTIT Project/Authentication-System"
    ```
 
 2. **Install dependencies**:
